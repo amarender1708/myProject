@@ -1,1 +1,9 @@
 This is my first file in GITHUB.
+
+How to make pizza
+1. get the dough.
+2. spread the red sause 
+3. top with onions, mushrooms, olives, 
+4. keep it in the oven for 20 min.
+5. Pizza is ready.
+
